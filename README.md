@@ -1,2 +1,2 @@
-# item_catalog
+# Project Item Catalog
 Udacity Full Stack Developer Assignment
